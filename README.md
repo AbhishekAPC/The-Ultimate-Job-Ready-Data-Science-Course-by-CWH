@@ -11,7 +11,6 @@ Work on real-life projects
 Use Jupyter Notebooks for data-driven development
 
 ## Course content
-Sure! Here's your provided course content reformatted in the requested style:
 
 ---
 
