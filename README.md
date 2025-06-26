@@ -10,14 +10,14 @@ Clean and preprocess real-world datasets for accurate insights
 Work on real-life projects
 Use Jupyter Notebooks for data-driven development
 
-## Course content
+## Course content / Topics Covered :
 
 ---
 
 1. **Introduction to Data Science**
    *Introduction to Data Science (3 lectures • 27min)*
 
-* What is Data Science?
+* What is Data Science? ✔
 * The Data Science Lifecycle
 * Data Science Tools – VS Code, Jupyter, Pycharm & More
 
