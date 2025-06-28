@@ -1,0 +1,93 @@
+---
+
+## 📘 **Lecture: What is Data Science?**
+
+
+### ❓ Why Do We Need Data Science?
+
+As a Data Scientist in an organization, you'll be expected to:
+
+* **Extract insights** from data
+* **Solve real-world problems** using tools from mathematics, statistics, and programming
+* Help **drive decision-making**
+
+---
+
+### 📚 Textbook Definition
+
+> Data Science is the field that uses **mathematics**, **statistics**, **programming**, and **domain knowledge** to extract meaningful insights from data.
+
+This is a solid exam-ready definition—but let’s simplify.
+
+---
+
+### ✅ Simple Definition
+
+**Data Science** is the process of:
+
+> **Collecting, cleaning, analyzing, and interpreting data** to make **informed decisions**.
+
+---
+
+### 🌍 Why is Data Science Important?
+
+In today’s data-driven world, information is everywhere—from websites and mobile apps to smart sensors and wearables.
+
+Organizations use this data to:
+
+* Make better decisions *(e.g., which product to launch next)*
+* Predict outcomes *(e.g., weather, stock prices)*
+* Automate tasks *(e.g., self-driving cars)*
+* Personalize experiences *(e.g., Netflix, YouTube)*
+
+---
+
+### 🧭 Key Steps in Data Science
+
+1. **Data Collection**
+
+   * Gather raw data from sources like APIs, databases, IoT devices, web scraping, etc.
+
+2. **Data Cleaning**
+
+   * Fix errors, remove duplicates, handle missing values
+   * *(Fun fact: this takes up to 80% of a data scientist’s time)*
+
+3. **Data Analysis**
+
+   * Use statistical tools to explore and find patterns in data
+
+4. **Model Building**
+
+   * Apply machine learning algorithms to make predictions
+
+5. **Interpretation & Communication**
+
+   * Visualize and present findings to stakeholders for decision-making
+
+---
+
+### 📌 Real-World Applications
+
+| Industry          | Use Case                                  |
+| ----------------- | ----------------------------------------- |
+| **Healthcare**    | Predicting disease outbreaks, diagnostics |
+| **E-commerce**    | Personalized product recommendations      |
+| **Finance**       | Fraud detection using pattern recognition |
+| **Entertainment** | Netflix/YouTube content recommendations   |
+
+---
+
+### 🚀 Why Learn Data Science?
+
+* **📈 High Demand**
+
+  * There’s a global talent shortage
+* **💰 Great Pay**
+
+  * Average salary in the US: **\$120,000+**
+  * In India: **₹10–30 LPA** (for experienced roles)
+* **🔮 Future-Proof Career**
+
+  * Powers **AI**, **automation**, **strategy**, and more
+
